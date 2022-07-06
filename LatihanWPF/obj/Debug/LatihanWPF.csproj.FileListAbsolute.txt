@@ -1,0 +1,34 @@
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\bin\Debug\LatihanWPF.exe.config
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\bin\Debug\LatihanWPF.exe
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\bin\Debug\LatihanWPF.pdb
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\LatihanWPF.csprojAssemblyReference.cache
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\App.g.cs
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\LatihanWPF_MarkupCompile.cache
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\LatihanWPF_MarkupCompile.lref
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\MainWindow.baml
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\LatihanWPF.g.resources
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\LatihanWPF.Properties.Resources.resources
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\LatihanWPF.csproj.GenerateResource.cache
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\LatihanWPF.csproj.CoreCompileInputs.cache
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\LatihanWPF.exe
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\LatihanWPF.pdb
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\Window1.g.cs
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\Window1.baml
+D:\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\bin\Debug\LatihanWPF.exe.config
+D:\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\bin\Debug\LatihanWPF.exe
+D:\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\bin\Debug\LatihanWPF.pdb
+D:\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\LatihanWPF.csprojAssemblyReference.cache
+D:\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\MainWindow.g.cs
+D:\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\Window1.g.cs
+D:\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\App.g.cs
+D:\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\LatihanWPF_MarkupCompile.cache
+D:\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\LatihanWPF_MarkupCompile.lref
+D:\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\MainWindow.baml
+D:\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\Window1.baml
+D:\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\LatihanWPF.g.resources
+D:\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\LatihanWPF.Properties.Resources.resources
+D:\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\LatihanWPF.csproj.GenerateResource.cache
+D:\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\LatihanWPF.csproj.CoreCompileInputs.cache
+D:\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\LatihanWPF.exe
+D:\Kuliah\Sem 3\Pemrograman Lanjut\LatihanWPF\LatihanWPF\obj\Debug\LatihanWPF.pdb
